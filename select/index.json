@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キミはボクの一番星",
+  "base_artist": "君に、胸キュン。",
+  "createdAt": "2026-03-02T14:18:05.814866Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミはボクの一番星",
+      "artist": "君に、胸キュン。",
+      "has_synced": false,
+      "path": "select/pl_01_キミはボクの一番星_君に、胸キュン。.txt"
+    }
+  ]
+}
